@@ -1,6 +1,6 @@
 # Taskmanager
 
-A taskmanger app using Node and MongoDB
+A taskmanger api using Node and MongoDB
 
 This was to learn CRUD and API using Node
 
